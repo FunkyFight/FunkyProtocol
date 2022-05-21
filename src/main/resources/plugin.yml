@@ -1,0 +1,8 @@
+name: FunkyProtocol
+version: '${project.version}'
+main: io.github.funkyfight.funkyprotocol.FunkyProtocol
+api-version: 1.18
+description: Using packets
+commands:
+  funkyprotocol:
+    description: FunkyProtocol's main plugin command
